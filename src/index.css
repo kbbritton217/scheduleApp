@@ -1,0 +1,28 @@
+html, body {
+	margin: 0;
+	height: 100%;
+}
+
+body {
+  padding: 0;
+  font-family: sans-serif;
+  background: orange;
+  background: linear-gradient(#ffb84d, #b36b00);
+}
+
+/*Grid {
+	opacity: 0;
+}*/
+.jumbotron {
+	background: rgba(200, 54, 54, 0);
+	text-align: center;
+}
+div {
+	text-align: center;
+}
+ .twoButton {
+ 	display: inline-block;
+ 	padding: 10px;
+ 	margin: 25px;
+ 	width: 175px;
+ }
